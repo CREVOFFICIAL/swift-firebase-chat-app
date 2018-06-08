@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>203029175295-j06p3g6ge5pabq2mo89e8uh7ftkbghi4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.203029175295-j06p3g6ge5pabq2mo89e8uh7ftkbghi4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD1vCTX6l40yDlSQlhEQ5iVDqQVZnGWDA8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>203029175295</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.whitewolf.chat-app</string>
+	<key>PROJECT_ID</key>
+	<string>test-7bbae</string>
+	<key>STORAGE_BUCKET</key>
+	<string>test-7bbae.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:203029175295:ios:e87396a85749d161</string>
+	<key>DATABASE_URL</key>
+	<string>https://test-7bbae.firebaseio.com</string>
+</dict>
+</plist>
